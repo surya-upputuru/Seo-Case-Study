@@ -16,7 +16,7 @@
 
 *Source: Google Search Console, Performance report, Web search type.*
 
-![GSC Performance — 3 months](./gsc-performance-3mo.png)
+
 
 ## What was done
 
