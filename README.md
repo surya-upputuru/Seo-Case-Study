@@ -2,7 +2,7 @@
 
 **Client:** Harsha Skin & Hair Clinic (dermatology practice, Nellore, India)
 **Site:** [harshaskinandhairclinic.com](https://harshaskinandhairclinic.com)
-**Scope:** Ongoing local SEO — technical fixes, on-page optimization, and Google Search Console monitoring against commercial keywords ("dermatologist in Nellore," "skin and hair clinic Nellore").
+**Scope:** Ongoing local SEO - technical fixes, on-page optimization, and Google Search Console monitoring against commercial keywords ("dermatologist in Nellore," "skin and hair clinic Nellore").
 
 ## Results (Google Search Console -<img width="1535" height="717" alt="gsc-performance-3mo" src="https://github.com/user-attachments/assets/0bebf17a-b9e7-4097-a981-8339d4441661" />
  trailing 3 months, May 31–Aug 25, 2026)
