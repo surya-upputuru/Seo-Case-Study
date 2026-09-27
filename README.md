@@ -19,6 +19,8 @@ The two periods are different lengths (91 days and 123 days), so clicks and impr
 
 \*CTR usually dips when impressions grow quickly, because the site starts appearing for more queries, including ones where it ranks lower. Clicks still grew by 30% a month.
 
+![Google Search Console: before (Jan–Mar 2026) vs after (Apr–Jul 2026)](images/gsc-before-after.png)
+
 ### Latest 3 months (31 May – 25 Aug 2026)
 
 365 clicks · 28,900 impressions · 1.3% CTR · average position 9.4
